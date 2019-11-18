@@ -21,3 +21,6 @@ Adaptable Theme https://moodle.org/plugins/theme_adaptable
 
 the settings for the theme can be imported from the JSON string.
 There is also some custom CSS added, which puts line breaks at spaces into the user profile description.
+
+
+Added a new file getting ready for adaptable 2.2 see: https://github.com/johnkuti/fltc-style/blob/master/2.2properties.rtf
