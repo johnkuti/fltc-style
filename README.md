@@ -1,6 +1,8 @@
 # fltc-style
 documenting the style of our teaching website
 
+The test site is now working with the adaptable 2.2 theme, compared with 2.1 in the production site.
+
 To encourage discussion and experimentation with the style of the website at https://fltc.ifmo.ru/m/ the settings and customisation to moodle 3.7.2 are all documented here.
 
 Moodle version - Moodle 3.7.2+ (Build: 20191018)
