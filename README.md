@@ -26,3 +26,5 @@ There is also some custom CSS added, which puts line breaks at spaces into the u
 
 
 Added a new file getting ready for adaptable 2.2 see: https://github.com/johnkuti/fltc-style/blob/master/2.2properties.rtf
+
+27th Nov. 2019 updated the collapsible topics plugin to version 2019111700
