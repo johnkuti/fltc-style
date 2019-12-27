@@ -3,7 +3,7 @@ documenting the style of our teaching website
 
 To encourage discussion and experimentation with the style of the website at https://fltc.ifmo.ru/m/ the settings and customisation to moodle 3.7.2 are all documented here.
 
-Moodle version - Moodle 3.7.2+ (Build: 20191018)
+Moodle version - Moodle 3.7.3+ (Build: 20191122)
 
 plugins we are using:
 
