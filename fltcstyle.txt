@@ -1,0 +1,395 @@
+﻿Report:
+Properties 'Moodle' version: 2019052001.
+Our 'Moodle' version: 2019052001.
+Properties 'Adaptable' version: 2019062800.
+Our 'Adaptable' version: 2019062800.
+
+Settings report:
+Changed:
+'alertkey1' -> '001' from ''.
+'alerttext1' -> '<p>I have enabled "alert box 1" so watch out!<br></p>' from ''.
+'backcolor' -> '#EBF6F5' from '#FFF'.
+'blockbackgroundcolor' -> '#EBF6F5' from '#FFFFFF'.
+'blockheaderbackgroundcolor' -> '#EBF6F5' from '#FFFFFF'.
+'blockside' -> '1' from '0'.
+'breadcrumb' -> '#EBF6F5' from '#f5f5f5'.
+'buttoncolor' -> '#B47AB4' from '#51666C'.
+'buttonhovercolor' -> '#814781' from '#009688'.
+'buttonlogincolor' -> '#EF512D' from '#ef5350'.
+'buttonloginhovercolor' -> '#A30500' from '#e53935'.
+'coursesectionactivityassignbgcolor' -> '#EBF6F5' from '#FFFFFF'.
+'coursesectionactivityforumbgcolor' -> '#EBF6F5' from '#FFFFFF'.
+'coursesectionactivityheadingcolour' -> '#000000' from '#0066cc'.
+'coursesectionactivityquizbgcolor' -> '#EBF6F5' from '#FFFFFF'.
+'coursesectionbgcolor' -> '#EBF6F5' from '#FFFFFF'.
+'coursesectionheaderbg' -> '#EBF6F5' from '#FFFFFF'.
+'coursetitlemaxwidth' -> '40' from '20'.
+'dashblocklayoutlayoutrow3' -> '0-0-0-0' from '3-3-3-3'.
+'editoffbk' -> '#EF512D' from '#f44336'.
+'editonbk' -> '#3FC3E0' from '#4caf50'.
+'enablealert1' -> '1' from ''.
+'enablemenus' -> '' from '1'.
+'enableticker' -> '' from '1'.
+'enabletickermy' -> '' from '1'.
+'favicon' -> '/favicon.ico' from ''.
+'fontblockheadersize' -> '18px' from '22px'.
+'fontblockheaderweight' -> '300' from '400'.
+'fontcolor' -> '#000000' from '#333333'.
+'fontheadercolor' -> '#000000' from '#333333'.
+'fontheaderweight' -> '300' from '400'.
+'fonttitlename' -> 'Roboto Slab' from 'Roboto Condensed'.
+'fonttitlesize' -> '40px' from '48px'.
+'fonttitleweight' -> '300' from '400'.
+'footerbkcolor' -> '#EBF6F5' from '#424242'.
+'footerlinkcolor' -> '#00008b' from '#ffffff'.
+'footertextcolor' -> '#000000' from '#ffffff'.
+'footertextcolor2' -> '#000000' from '#ffffff'.
+'forumbodybackgroundcolor' -> '#EBF6F5' from '#ffffff'.
+'forumheaderbackgroundcolor' -> '#EBF6F5' from '#ffffff'.
+'frontpagerenderer' -> '3' from '2'.
+'headerbkcolor' -> '#000000' from '#00796B'.
+'headerbkcolor2' -> '#000000' from '#009688'.
+'headerstyle' -> 'style2' from 'style1'.
+'linkcolor' -> '#000086' from '#51666C'.
+'linkhover' -> '#863500' from '#009688'.
+'loadingcolor' -> '#000000' from '#00B3A1'.
+'maincolor' -> '#000000' from '#3A454b'.
+'menubkcolor' -> '#EBF6F5' from '#ffffff'.
+'menufontcolor' -> '#000000' from '#222222'.
+'messagingbackgroundcolor' -> '#EBF6F5' from '#FFFFFF'.
+'mobilemenubkcolor' -> '#E53935' from '#F9F9F9'.
+'mobileslidebartabbkcolor' -> '#EBF6F5' from '#F9F9F9'.
+'msgbadgecolor' -> '#EBF6F5' from '#E53935'.
+'newmenu1title' -> 'Меню 1' from 'Menu 1'.
+'pageheaderheight' -> '50px' from '72px'.
+'regionmaincolor' -> '#EBF6F5' from '#FFF'.
+'sectionheadingcolor' -> '#000000' from '#3A454b'.
+'selectionbackground' -> '#858600' from '#00B3A1'.
+'selectiontext' -> '#FFEAF6' from '#000000'.
+'sitetitle' -> 'disabled' from 'default'.
+'sitetitlepaddingleft' -> '20px' from '0px'.
+'socialorsearch' -> 'none' from 'search'.
+'socialwallbackgroundcolor' -> '#EBF6F5' from '#ffffff'.
+'tickertext1' -> '<p>сайт закрыт на каникулы . This site is closed for the summer holidays!<br></p>' from ''.
+'toolsmenu1title' -> 'Инструменты' from 'Tools'.
+'topmenuscount' -> '0' from '1'.
+
+Added:
+'market1' -> ''.
+'market2' -> ''.
+'market3' -> ''.
+'market4' -> ''.
+
+Unchanged:
+'alertaccess1' -> 'global'.
+'alertbackgroundcolorinfo' -> '#d9edf7'.
+'alertbackgroundcolorsuccess' -> '#dff0d8'.
+'alertbackgroundcolorwarning' -> '#fcf8e3'.
+'alertbordercolorinfo' -> '#bce8f1'.
+'alertbordercolorsuccess' -> '#d6e9c6'.
+'alertbordercolorwarning' -> '#fbeed5'.
+'alertcolorinfo' -> '#3a87ad'.
+'alertcolorsuccess' -> '#468847'.
+'alertcolorwarning' -> '#8a6d3b'.
+'alertcount' -> '1'.
+'alerthiddencourse' -> 'warning'.
+'alerticoninfo' -> 'info-circle'.
+'alerticonsuccess' -> 'bullhorn'.
+'alerticonwarning' -> 'exclamation-triangle'.
+'alertprofilefield1' -> ''.
+'alerttype1' -> 'info'.
+'analyticscount' -> '1'.
+'analyticsprofilefield1' -> ''.
+'analyticstext1' -> ''.
+'anonymizega' -> '1'.
+'blockbordercolor' -> '#59585D'.
+'blockheaderborderbottom' -> '0px'.
+'blockheaderborderleft' -> '0px'.
+'blockheaderborderright' -> '0px'.
+'blockheaderbordertop' -> '1px'.
+'blockheaderbordertopstyle' -> 'dashed'.
+'blockheaderbottomradius' -> '0px'.
+'blockheadertopradius' -> '0px'.
+'blockicons' -> '1'.
+'blockiconsheadersize' -> '20px'.
+'blocklayoutlayoutrow1' -> '3-3-3-3'.
+'blocklayoutlayoutrow2' -> '4-4-4-0'.
+'blocklayoutlayoutrow3' -> '3-3-3-3'.
+'blocklayoutlayoutrow4' -> '0-0-0-0'.
+'blocklayoutlayoutrow5' -> '0-0-0-0'.
+'blocklayoutlayoutrow6' -> '0-0-0-0'.
+'blocklayoutlayoutrow7' -> '0-0-0-0'.
+'blocklayoutlayoutrow8' -> '0-0-0-0'.
+'blockmainborderbottom' -> '0px'.
+'blockmainborderleft' -> '0px'.
+'blockmainborderright' -> '0px'.
+'blockmainbordertop' -> '0px'.
+'blockmainbordertopstyle' -> 'none'.
+'blockmainbottomradius' -> '0px'.
+'blockmaintopradius' -> '0px'.
+'blockregionbackgroundcolor' -> 'transparent'.
+'breadcrumbhome' -> 'icon'.
+'breadcrumbseparator' -> 'angle-right'.
+'breadcrumbtextcolor' -> '#444444'.
+'buttoncancelbackgroundcolor' -> '#d8d5d5'.
+'buttoncancelcolor' -> '#1d1c1c'.
+'buttondropshadow' -> '0px'.
+'buttonloginheight' -> '24px'.
+'buttonloginmargintop' -> '2px'.
+'buttonloginpadding' -> '0px'.
+'buttonlogintextcolor' -> '#FFFFFF'.
+'buttonradius' -> '5px'.
+'buttontextcolor' -> '#ffffff'.
+'coursepageblockactivitybottomenabled' -> '0'.
+'coursepageblocklayoutlayoutbottomrow2' -> '3-3-3-3'.
+'coursepageblocklayoutlayouttoprow1' -> '3-3-3-3'.
+'coursepageblocksenabled' -> '0'.
+'coursepageblocksliderenabled' -> '0'.
+'coursepageheaderhidesitetitle' -> '0'.
+'coursepagesidebarinfooterenabled' -> '0'.
+'coursesectionactivityassignleftbordercolor' -> '#0066cc'.
+'coursesectionactivitybordercolor' -> '#eeeeee'.
+'coursesectionactivityborderstyle' -> 'dashed'.
+'coursesectionactivityborderwidth' -> '2px'.
+'coursesectionactivityforumleftbordercolor' -> '#990099'.
+'coursesectionactivityfurtherinformationassign' -> '1'.
+'coursesectionactivityfurtherinformationchoice' -> '1'.
+'coursesectionactivityfurtherinformationdata' -> '1'.
+'coursesectionactivityfurtherinformationfeedback' -> '1'.
+'coursesectionactivityfurtherinformationlesson' -> '1'.
+'coursesectionactivityfurtherinformationquiz' -> '1'.
+'coursesectionactivityiconsize' -> '24px'.
+'coursesectionactivityleftborderwidth' -> '3px'.
+'coursesectionactivitymarginbottom' -> '2px'.
+'coursesectionactivitymargintop' -> '2px'.
+'coursesectionactivityquizleftbordercolor' -> '#FF3333'.
+'coursesectionactivityuseadaptableicons' -> '1'.
+'coursesectionbordercolor' -> '#e8eaeb'.
+'coursesectionborderradius' -> '0px'.
+'coursesectionborderstyle' -> 'solid'.
+'coursesectionborderwidth' -> '1px'.
+'coursesectionheaderbordercolor' -> '#F3F3F3'.
+'coursesectionheaderborderradiusbottom' -> '0px'.
+'coursesectionheaderborderradiustop' -> '0px'.
+'coursesectionheaderborderstyle' -> 'none'.
+'coursesectionheaderborderwidth' -> '0px'.
+'covbkcolor' -> '#3A454b'.
+'covfontcolor' -> '#ffffff'.
+'covhidebutton' -> '0'.
+'currentcolor' -> '#d2f2ef'.
+'customcss' -> ''.
+'dashblocklayoutlayoutrow1' -> '3-3-3-3'.
+'dashblocklayoutlayoutrow2' -> '4-4-4-0'.
+'dashblocklayoutlayoutrow4' -> '0-0-0-0'.
+'dashblocklayoutlayoutrow5' -> '0-0-0-0'.
+'dashblocklayoutlayoutrow6' -> '0-0-0-0'.
+'dashblocklayoutlayoutrow7' -> '0-0-0-0'.
+'dashblocklayoutlayoutrow8' -> '0-0-0-0'.
+'dashblocksenabled' -> '0'.
+'dashblocksposition' -> 'abovecontent'.
+'disablecustommenu' -> ''.
+'disablemenuscoursepages' -> '1'.
+'displaygrades' -> '1'.
+'displaylogin' -> 'button'.
+'displayparticipants' -> '1'.
+'dividingline' -> '#ffffff'.
+'dividingline2' -> '#ffffff'.
+'editfont' -> '#ffffff'.
+'edithorizontalpadding' -> '6px'.
+'editsettingsbutton' -> 'cog'.
+'edittopmargin' -> '5px'.
+'editverticalpadding' -> '4px'.
+'emoticonsize' -> '16px'.
+'enablealertcoursepages' -> ''.
+'enablealerts' -> ''.
+'enablealertstriptags' -> '1'.
+'enableanalytics' -> ''.
+'enableavailablecourses' -> 'none'.
+'enablebadges' -> ''.
+'enableblog' -> ''.
+'enablecalendar' -> '1'.
+'enableeditprofile' -> '1'.
+'enableevents' -> '1'.
+'enablefeed' -> ''.
+'enablegrades' -> '1'.
+'enableheading' -> 'fullname'.
+'enablehelp' -> ''.
+'enablehelp2' -> ''.
+'enablehome' -> '1'.
+'enablehomeredirect' -> '1'.
+'enablemessagemenu' -> '1'.
+'enablemy' -> '1'.
+'enablemyhome' -> '1'.
+'enablemysites' -> 'excludehidden'.
+'enablemysitesrestriction' -> ''.
+'enablenavbarwhenloggedout' -> ''.
+'enablenote' -> ''.
+'enableposts' -> ''.
+'enablepref' -> '1'.
+'enableprivatefiles' -> ''.
+'enableprofile' -> '1'.
+'enablesavecanceloverlay' -> '1'.
+'enableshowhideblocks' -> '1'.
+'enablethiscourse' -> '1'.
+'enabletoolsmenus' -> ''.
+'enablezoom' -> '1'.
+'enablezoomshowtext' -> ''.
+'filteradminmessages' -> ''.
+'fontblockheadercolor' -> '#3A454b'.
+'fontheadername' -> 'Roboto'.
+'fontname' -> 'Open Sans'.
+'fontsize' -> '95%'.
+'fontsubset' -> ''.
+'fonttitlecolor' -> '#ffffff'.
+'fonttitlecolorcourse' -> '#ffffff'.
+'fontweight' -> '400'.
+'footerblocksplacement' -> '1'.
+'footerlayoutrow1' -> '3-3-3-3'.
+'footerlayoutrow2' -> '0-0-0-0'.
+'footerlayoutrow3' -> '0-0-0-0'.
+'footnote' -> ''.
+'frontpageblocksenabled' -> '0'.
+'frontpagelogin' -> '1'.
+'frontpagemarketenabled' -> ''.
+'frontpagemarketoption' -> 'covtiles'.
+'frontpagenumbertiles' -> '4'.
+'frontpagerendererdefaultimage' -> ''.
+'fullscreenwidth' -> '98%'.
+'gdprbutton' -> 'none'.
+'headerbgimage' -> ''.
+'headertextcolor' -> '#ffffff'.
+'headertextcolor2' -> '#ffffff'.
+'helpprofilefield' -> ''.
+'helpprofilefield2' -> ''.
+'helptarget' -> '_blank'.
+'hidealertsmobile' -> '0'.
+'hidebreadcrumbmobile' -> '0'.
+'hidecoursetitlemobile' -> '0'.
+'hidefootersocial' -> '1'.
+'hideheadermobile' -> '1'.
+'hideinforum' -> ''.
+'hidelogomobile' -> '0'.
+'hidepagefootermobile' -> '0'.
+'hideslidermobile' -> '1'.
+'hidesocialmobile' -> '0'.
+'infobox' -> ''.
+'infobox2' -> ''.
+'infoboxfullscreen' -> ''.
+'jssection' -> ''.
+'jssectionrestricted' -> ''.
+'jssectionrestricteddashboardonly' -> '1'.
+'jssectionrestrictedprofilefield' -> ''.
+'marketblockbordercolor' -> '#e8eaeb'.
+'marketblocksbackgroundcolor' -> 'transparent'.
+'marketlayoutrow1' -> '3-3-3-3'.
+'marketlayoutrow2' -> '0-0-0-0'.
+'marketlayoutrow3' -> '0-0-0-0'.
+'marketlayoutrow4' -> '0-0-0-0'.
+'marketlayoutrow5' -> '0-0-0-0'.
+'menubordercolor' -> '#00B3A1'.
+'menufontpadding' -> '20px'.
+'menufontsize' -> '14px'.
+'menuhovercolor' -> '#00B3A1'.
+'menuoverrideprofilefield' -> 'topmenusettings'.
+'menusession' -> '1'.
+'menusessionttl' -> '30'.
+'menuslinkicon' -> 'fa-link'.
+'menuslinkright' -> '1'.
+'menuuseroverride' -> ''.
+'messagepopupbackground' -> '#fff000'.
+'messagepopupcolor' -> '#333333'.
+'mobilemenufontcolor' -> '#000000'.
+'mobileslidebartabiconcolor' -> '#000000'.
+'moodledocs' -> '1'.
+'mycoursesmenulimit' -> '20'.
+'mysitesmaxlength' -> '30'.
+'mysitesmenudisplay' -> 'shortcodehover'.
+'mysitessortoverride' -> 'off'.
+'mysitessortoverridefield' -> ''.
+'navbardisplayicons' -> '1'.
+'navbardisplaysubmenuarrow' -> ''.
+'navbardropdownborderradius' -> '0px'.
+'navbardropdownhovercolor' -> '#EEE'.
+'navbardropdowntransitiontime' -> '0.2s'.
+'newmenu1' -> ''.
+'newmenu1field' -> ''.
+'newmenu1requirelogin' -> ''.
+'newstickercount' -> '1'.
+'p1cap' -> ''.
+'p1url' -> ''.
+'p2cap' -> ''.
+'p2url' -> ''.
+'p3cap' -> ''.
+'p3url' -> ''.
+'piwikenabled' -> ''.
+'piwikimagetrack' -> '1'.
+'piwiksiteid' -> '1'.
+'piwiksiteurl' -> ''.
+'piwiktrackadmin' -> ''.
+'rendereroverlaycolor' -> '#3A454b'.
+'rendereroverlayfontcolor' -> '#FFF'.
+'searchboxpadding' -> '15px 0px 0px 0px'.
+'showfooterblocks' -> '1'.
+'showyourprogress' -> ''.
+'sidebarnotlogged' -> '1'.
+'sitetitlemaxwidth' -> '50%'.
+'sitetitlepaddingtop' -> '0px'.
+'sitetitletext' -> ''.
+'slidercount' -> '3'.
+'sliderenabled' -> '0'.
+'sliderfullscreen' -> '0'.
+'sliderh3color' -> '#ffffff'.
+'sliderh4color' -> '#ffffff'.
+'slidermarginbottom' -> '20px'.
+'slidermargintop' -> '20px'.
+'slideroption2' -> 'slider1'.
+'slidersubmitbgcolor' -> '#51666C'.
+'slidersubmitcolor' -> '#ffffff'.
+'smallscreenhidebreadcrumb' -> '1'.
+'smallscreenhidesidebar' -> '1'.
+'smallscreenshowsearchicon' -> '1'.
+'socialboxpaddingbottommobile' -> '10px'.
+'socialboxpaddingtopmobile' -> '10px'.
+'socialiconlist' -> ''.
+'socialpaddingtop' -> '0%'.
+'socialsize' -> '32px'.
+'socialsizemobile' -> '22px'.
+'socialtarget' -> '_self'.
+'socialwallactionlinkcolor' -> '#51666C'.
+'socialwallactionlinkhovercolor' -> '#009688'.
+'socialwallbordercolor' -> '#B9B9B9'.
+'socialwallbordertopstyle' -> 'solid'.
+'socialwallborderwidth' -> '2px'.
+'socialwallsectionradius' -> '6px'.
+'stickynavbar' -> '1'.
+'tabbedlayoutcoursepage' -> '0'.
+'tabbedlayoutcoursepagetabcolorselected' -> '#06c'.
+'tabbedlayoutcoursepagetabcolorunselected' -> '#eee'.
+'tabbedlayoutcoursepagetabpersistencetime' -> '30'.
+'tabbedlayoutdashboard' -> '0'.
+'tabbedlayoutdashboardcolorselected' -> '#06c'.
+'tabbedlayoutdashboardcolorunselected' -> '#eee'.
+'tabbedlayoutdashboardtab1condition' -> ''.
+'tabbedlayoutdashboardtab2condition' -> ''.
+'tickertext1profilefield' -> ''.
+'tickerwidth' -> ''.
+'tilesbordercolor' -> '#3A454b'.
+'tilescontactstitle' -> '1'.
+'tilesshowallcontacts' -> '0'.
+'tilesshowcontacts' -> '1'.
+'toolsmenu1' -> ''.
+'toolsmenu1field' -> ''.
+'toolsmenuscount' -> '1'.
+'topmenufontsize' -> '14px'.
+'viewselect' -> '1'.
+
+Ignored:
+'footer1content' -> '<p>If you have a question or comment about this site, you can write to A Support address for email advice.<br></p>'.
+'footer1header' -> 'Moodle support'.
+'footer2content' -> ''.
+'footer2header' -> ''.
+'footer3content' -> ''.
+'footer3header' -> ''.
+'footer4content' -> ''.
+'footer4header' -> ''.
+
